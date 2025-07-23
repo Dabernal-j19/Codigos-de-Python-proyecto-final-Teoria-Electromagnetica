@@ -1,1 +1,2 @@
 # Codigos-de-Python-proyecto-final-Teoria-Electromagnetica
+Códigos de Python utilizados para la realización del proyecto: Fundamentos físicos y justificación técnica del uso de conductores en haz en líneas de transmisión de alta tensión. Realizados por los estudiantes de ingenieria electrica Daniel Bernal Betancur y Juan Diego Valencia Sepúlveda de la Facultad de Minas de la Universidad Nacional de Colombia sede Medellin.
